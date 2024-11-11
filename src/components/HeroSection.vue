@@ -74,7 +74,7 @@
     </nav>
 
     <!-- Hero Content -->
-    <div class="max-w-[1800px] mx-auto pl-[70px] pr-4 sm:pr-8 lg:pr-16 pb-24 pt-16">
+    <div class="max-w-[1800px] mx-auto pl-[70px] pr-4 sm:pr-8 lg:pr-16 pb-24 pt-16 relative">
       <div class="flex flex-col lg:flex-row items-start justify-between">
         <div class="w-full lg:w-[45%] flex flex-col items-start">
           <h1 class="text-[64px] leading-[1.1] font-bold mb-8 mt-24">
@@ -94,14 +94,13 @@
             Get Started
           </button>
         </div>
-        <div class="  w-full lg:w-[70%] flex items-center justify-end mt-12 lg:mt-0 relative lg:absolute lg:top-[42%] lg:right-[-10%] ">
-  <img 
-    src="../assets/images/image2.png"
-    alt="Trading Platform Interface" 
-    class="w-[100%] h-auto object-contain"
-  />
-</div>
-
+        <div class="w-full lg:w-[55%] flex items-center justify-end mt-12 lg:mt-0 relative lg:absolute lg:bottom-0 lg:right-0 overflow-hidden">
+          <img 
+            src="../assets/images/image2.png"
+            alt="Trading Platform Interface" 
+            class="w-full h-auto object-contain lg:object-bottom"
+          />
+        </div>
       </div>
     </div>
   </div>

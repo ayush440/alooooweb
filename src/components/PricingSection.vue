@@ -41,7 +41,7 @@
               <img 
                 src="../assets/images/image.svg"
                 alt="Trading Interface" 
-                class="w-full h-full object-contain transform translate-x-28"
+                class="w-full h-full object-contain transform translate-x-52"
               />
             </div>
           </div>
